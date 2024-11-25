@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rauan Liberato
+# Rauan Liberato
 
 **`Desenvolvimento, Linux e Cubo Mágico`**
 
